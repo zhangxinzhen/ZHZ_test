@@ -49,7 +49,7 @@ class ViewController: UIViewController {
     }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
+print("测试：增加的一个分支")
     }
 
 
