@@ -17,6 +17,12 @@ class ViewController: UIViewController {
         for i in 1..<5 {
             
             print("你好")
+            print("你好")
+            print("你好")
+            print("你好")
+            print("你好")
+            print("你好")
+
             let btn = UIButton(type: .Custom)
             view.addSubview(btn)
             btn.tag = i
