@@ -22,6 +22,14 @@ class ViewController: UIViewController {
             print("你好")
             print("你好")
             print("你好")
+            
+            
+            print("你好")
+            print("你好")
+            print("你好")
+            print("你好")
+            print("你好")
+            print("你好")
 
             let btn = UIButton(type: .Custom)
             view.addSubview(btn)
